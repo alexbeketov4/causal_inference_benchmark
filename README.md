@@ -54,7 +54,7 @@ DML - самое большое смещение, при сопоставимо�
 проблема не в разбросе оценки, а в том, что гибкость ML-моделей не успевает
 окупиться при 185 treated и сильном дисбалансе групп.
 
-![Propensity score overlap](images/ps_overlap.png)
+![Propensity score overlap](images/ps_overlap_log.png)
 
 Диапазоны propensity score у групп пересекаются полностью - overlap не
 ограничивает matching/PSM/PSW; проблема результата не в отсутствии похожих
